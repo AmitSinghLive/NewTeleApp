@@ -5,7 +5,7 @@ This repo contains the official source code for [Telegram App for Android](https
 
 
 
-##IMPORTANT NOTICE:
+### IMPORTANT NOTICE:
 
 File Under Folder " Telegram/TMessagesProj/jni/libtgvoip " is hosted by another user at different repository. So when you Download it as zip file or import it into Android Studio then that files of "libtgvoip" will not be downloaded or imported. So you have to again download or import it and use it.
 
